@@ -12,6 +12,7 @@
 The HR Distribution Project is focused on analyzing and optimizing the allocation of human resources across different departments and locations within an organization. This project involves gathering workforce data, identifying trends in employee distribution, and ensuring that staffing levels align with business needs.
 
 [HR Workforce Distribution Project.pdf](https://github.com/user-attachments/files/19075500/HR.Workforce.Distribution.Project.pdf)
+![HR 2025-03-05 174115](https://github.com/user-attachments/assets/538b44d5-f5c8-49b0-96f6-f24193849aeb)
 
 
 ### Data source
